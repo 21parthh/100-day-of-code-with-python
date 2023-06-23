@@ -7,4 +7,4 @@ tip = (bill * perc)/100
 amount = tip + bill
 pay = amount/people
 
-print("Each person should pay: Rs",round(pay,2))
+print("Each person should pay: Rs",round(pay,1))
